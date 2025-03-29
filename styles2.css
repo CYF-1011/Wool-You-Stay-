@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header, section, footer {
+    background-color: rgb(255, 255, 255);
+    border:5px rgb(255, 255, 255) solid;
+    padding: 30px 50px 20px 10px;
+} 
+
+
+.works{
+    display:flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 30px 30px;
+}
+.works div{
+    width:700px;
+    text-align:left;
+}
+.works img{
+    width:100%;
+}
+.works p{
+    font-size: 25px;
+    line-height: 2em;
+}
+.sonti {
+    font-family: "SimSun", "宋体", serif;
+    
+}
