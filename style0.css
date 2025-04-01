@@ -48,14 +48,17 @@ main{
 
 
 .topic h2 {
+    color:rgb(62, 9, 48);
     font-size:60px;
     margin-top:60px;
 } 
 .topic h3 {
+    color:rgb(62, 9, 48);
     font-size:60px;
     margin-top:25px;
 } 
 .topic p {
+    color:rgb(62, 9, 48);
     color:black;
     font-weight: 700;
     font-size:20px;
